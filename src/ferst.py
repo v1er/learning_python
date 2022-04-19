@@ -1,1 +1,1 @@
-print ("hello!")
+print ("Прівет, мой найкращий Python!")
